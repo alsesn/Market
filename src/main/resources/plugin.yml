@@ -1,0 +1,7 @@
+name: Market
+version: '${version}'
+main: segasha.market.Market
+api-version: '1.20'
+
+commands:
+  market:

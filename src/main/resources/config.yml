@@ -1,0 +1,10 @@
+minPrice: 1
+
+messages:
+  noPermission: "Нет доступа к команде."
+  usage: "Продать предмет: /market sell <price>"
+  noItem: "У вас нету предмета в руке."
+  invalidPrice: "Неправельное значение цены."
+  minPrice: "Указанная цена ниже минимальной."
+  sellOrderCreated: "Вы выставили на продажу предмет {item} по цене {price}."
+  sellOrderCancelled: "Предмет {item} был снят с продажи."
